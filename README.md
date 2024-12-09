@@ -14,3 +14,4 @@ The second layer on this web map is avaliable on the click of a ski resort, and 
 * Leaflet.js
 * FontAwesome
 * JQuery
+* Google Fonts
